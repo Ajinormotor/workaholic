@@ -1,0 +1,135 @@
+
+
+.header__wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    z-index: 100;
+    position: relative;
+    
+}
+
+.logo__text{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.navlink__menu{
+    display: flex;
+    gap: 3rem;
+}
+
+.navlink__btn{
+    background: rgb(107, 107, 219);
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.navlink__bar{
+    display: none;
+}
+
+.close{
+    display: none;
+}
+
+.open{
+    display: none;
+}
+
+.header__shrink{
+    background:rgb(90, 90, 231) ;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    box-shadow: 2px 4px 4px -2px #fff;
+    z-index: 250;
+}
+
+@media only screen  and (max-width:450px) {
+   
+    .header__wrapper{
+        display: flex;
+        justify-content: space-between;
+        overflow: hidden;
+    }
+  .hidden{
+    left: 0px;
+  }
+    .navigation{
+         width: 100%;
+        height: 100vh;
+        background: rgb(107, 107, 219);
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        top:  100px;
+        left: -1000px;
+        right: 0px;
+      position: absolute;
+      
+    }
+    .navlink__menu{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        width: 440px;
+        height: 100vh;
+        position: relative;
+        margin-top: 10%;
+        left: -150px;
+        right: 0;
+        background: rgb(107, 107, 219);
+       
+    }
+
+    .navlink__item{
+        margin-top: 20px;
+        border-bottom: 0.5px solid #fff;
+        width: 100%;
+        padding: 10px;
+    }
+
+
+    .navlink__bar{
+        display:block;
+        background: #fff;
+        border-radius: 10px;
+        width: 100%;
+        text-align: center;
+        bottom: 30px;
+        position: absolute;
+    }
+
+    .smallnavlink__btn{
+        color: rgb(107, 107, 219);
+        padding: 10px;
+    }
+
+    .navlink__bar:hover{
+        box-shadow: 2px  2px 2px solid #fff;
+        transform: translateY(5px);
+    }
+
+    .side__bar{
+        display: none; 
+    }
+
+    .close{
+        display: block;
+        right: 5px;
+        align-items: right;
+justify-content: right; 
+position: absolute;  
+ }
+
+    .open{
+        display: block;
+        position: absolute;
+    }
+    
+}
