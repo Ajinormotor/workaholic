@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/workaholic/static/css/main.3119c473.css",
+    "main.js": "/workaholic/static/js/main.fc74def9.js",
+    "static/media/remixicon.svg?t=1705244689813": "/workaholic/static/media/remixicon.426742b01cbcdd986634.svg",
+    "static/media/remixicon.eot?t=1705244689813": "/workaholic/static/media/remixicon.ff1ec9ee899cf84e3449.eot",
+    "static/media/remixicon.ttf?t=1705244689813": "/workaholic/static/media/remixicon.f1ed85ba47411bc8629e.ttf",
+    "static/media/cta-bg.jpg": "/workaholic/static/media/cta-bg.240b860f19c4b1e12004.jpg",
+    "static/media/remixicon.woff?t=1705244689813": "/workaholic/static/media/remixicon.85d5afadad2b2c04b2fb.woff",
+    "static/media/remixicon.woff2?t=1705244689813": "/workaholic/static/media/remixicon.7124d0d7809bef5b73ab.woff2",
+    "static/media/about.jpg": "/workaholic/static/media/about.42658f9e21de663dabc2.jpg",
+    "static/media/cargo-service.jpg": "/workaholic/static/media/cargo-service.56cb7c9a1a08546cd70b.jpg",
+    "static/media/packaging-service.jpg": "/workaholic/static/media/packaging-service.3bfcc43c71d8a5cd52f2.jpg",
+    "static/media/trucking-service.jpg": "/workaholic/static/media/trucking-service.b32ac2df3a9379c704e0.jpg",
+    "static/media/team-2.jpg": "/workaholic/static/media/team-2.b2008acdf74612d89b8f.jpg",
+    "static/media/team-1.jpg": "/workaholic/static/media/team-1.30c859cd9a02bb5dcc9a.jpg",
+    "static/media/team-3.jpg": "/workaholic/static/media/team-3.ca581ae1628e295ec2a0.jpg",
+    "static/media/hero-img.svg": "/workaholic/static/media/hero-img.ac8a778a1de601afcb215c23a46f2763.svg",
+    "static/media/slick.svg": "/workaholic/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/workaholic/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/workaholic/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/workaholic/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/workaholic/index.html",
+    "main.3119c473.css.map": "/workaholic/static/css/main.3119c473.css.map",
+    "main.fc74def9.js.map": "/workaholic/static/js/main.fc74def9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3119c473.css",
+    "static/js/main.fc74def9.js"
+  ]
+}
