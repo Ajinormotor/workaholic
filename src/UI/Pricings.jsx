@@ -10,7 +10,7 @@ const Pricings = () => {
 <h1>Pricing</h1>
     </div>
 
-    <div className="pricing__wrapper">
+    <div className="pricing__wrapper ">
 
         <div className="pricing__box"  data-aos="flip-left" 
  data-aos-delay="200">
