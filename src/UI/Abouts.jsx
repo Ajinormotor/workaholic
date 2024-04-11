@@ -19,11 +19,11 @@ const Abouts = () => {
                 <div className="about__text">
 
                     <h1  data-aos="zoom-in-down" 
- data-aos-delay="100">Dolor iure expedita id fuga asperiores qui sunt consequatur minima. Quidem voluptas deleniti. Sit quia molestiae quia quas qui magnam itaque veritatis dolores. 
+ data-aos-delay="10">Dolor iure expedita id fuga asperiores qui sunt consequatur minima. Quidem voluptas deleniti. Sit quia molestiae quia quas qui magnam itaque veritatis dolores. 
                         Corrupti totam ut eius incidunt reiciendis veritatis asperiores placeat.</h1>
         
         <div className="about__box" data-aos="zoom-in-down" 
- data-aos-delay="150">
+ data-aos-delay="15">
         
         <i class="ri-hotspot-fill"></i>
         
@@ -38,7 +38,7 @@ const Abouts = () => {
         </div>
         
         <div className="about__box"  data-aos="zoom-in-down" 
- data-aos-delay="200">
+ data-aos-delay="20">
         
         <i class="ri-hotspot-fill"></i>
         
@@ -53,7 +53,7 @@ const Abouts = () => {
         </div>
         
         <div className="about__box" data-aos="zoom-in-down" 
- data-aos-delay="300">
+ data-aos-delay="30">
         
         <i class="ri-hotspot-fill"></i>
         
@@ -72,7 +72,7 @@ const Abouts = () => {
                 </div>
         
                 <div className="about__pics"  data-aos="zoom-in-up" 
- data-aos-delay="400">
+ data-aos-delay="40">
                     <img src={about} alt="" />
                 </div>
         

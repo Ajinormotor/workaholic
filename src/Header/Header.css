@@ -6,6 +6,7 @@
     padding: 20px;
     z-index: 100;
     position: relative;
+    border-bottom: 1px solid rgb(107, 107, 219) ;
     
 }
 

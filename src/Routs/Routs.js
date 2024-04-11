@@ -16,6 +16,8 @@ const Routs = () => {
     <Route  path="/service/:id"   element={ <Servicedetails />}   />
     <Route  path="/pricing"   element={ <Pricing />}   />
     <Route  path="/about"   element={ <About/>}   />
+    
+    <Route path="*" element={<Navigate to="/home" />} />
 </Routes>
   )
 }

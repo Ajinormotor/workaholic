@@ -40,12 +40,12 @@ const ServiceItem = ({item}) => {
   
     <div className="service__wrapper">
       <div className="service__box" data-aos="zoom-in-left" 
- data-aos-delay="150">
+ data-aos-delay="15">
         <img src={img} alt="" />
         <h1  data-aos="zoom-in-right" 
- data-aos-delay="200"> <NavLink to={`/service/${id}`}>{name}</NavLink></h1>
+ data-aos-delay="20"> <NavLink to={`/service/${id}`}>{name}</NavLink></h1>
         <p data-aos="zoom-in-right" 
- data-aos-delay="300">{text}</p>
+ data-aos-delay="30">{text}</p>
       </div>
       </div>
       )
