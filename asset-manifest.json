@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/workaholic/static/css/main.3119c473.css",
-    "main.js": "/workaholic/static/js/main.fc74def9.js",
+    "main.css": "/workaholic/static/css/main.a094c960.css",
+    "main.js": "/workaholic/static/js/main.9b499d76.js",
     "static/media/remixicon.svg?t=1705244689813": "/workaholic/static/media/remixicon.426742b01cbcdd986634.svg",
     "static/media/remixicon.eot?t=1705244689813": "/workaholic/static/media/remixicon.ff1ec9ee899cf84e3449.eot",
     "static/media/remixicon.ttf?t=1705244689813": "/workaholic/static/media/remixicon.f1ed85ba47411bc8629e.ttf",
@@ -21,11 +21,11 @@
     "static/media/slick.ttf": "/workaholic/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/workaholic/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/workaholic/index.html",
-    "main.3119c473.css.map": "/workaholic/static/css/main.3119c473.css.map",
-    "main.fc74def9.js.map": "/workaholic/static/js/main.fc74def9.js.map"
+    "main.a094c960.css.map": "/workaholic/static/css/main.a094c960.css.map",
+    "main.9b499d76.js.map": "/workaholic/static/js/main.9b499d76.js.map"
   },
   "entrypoints": [
-    "static/css/main.3119c473.css",
-    "static/js/main.fc74def9.js"
+    "static/css/main.a094c960.css",
+    "static/js/main.9b499d76.js"
   ]
 }
